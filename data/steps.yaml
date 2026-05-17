@@ -1,0 +1,14 @@
+section_label: "Prosesnya"
+heading: "CHAT. BUAT.\nLUNCURKAN."
+items:
+  - num: "01"
+    title: CERITAKAN
+    desc: "AI kami akan menanyakan beberapa pertanyaan sederhana — jenis bisnis, nama, warna, dan konten yang ingin ditampilkan. Tidak ada form, cukup ngobrol."
+
+  - num: "02"
+    title: AI MEMBANGUN
+    desc: "Base menghasilkan website lengkap dan mobile-ready yang disesuaikan dengan bisnismu — warna brand, konten, tombol WhatsApp, dan lainnya. Dalam 3 menit."
+
+  - num: "03"
+    title: LUNCURKAN
+    desc: "Preview situsmu, ubah dengan perintah lanjutan, lalu luncurkan ke subdomain-mu sendiri seketika. Upgrade kapan saja untuk domain kustom."

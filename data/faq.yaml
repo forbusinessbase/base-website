@@ -1,0 +1,26 @@
+section_label: "FAQ"
+heading: "PERTANYAAN\nTERJAWAB"
+contact_text: "Tidak menemukan jawabanmu?"
+contact_link: "Hubungi kami."
+contact_href: "#"
+items:
+  - question: "Apakah Base benar-benar gratis untuk memulai?"
+    answer: "Ya, 100% gratis tanpa kartu kredit. Free plan tidak ada batas waktu — kamu bisa pakai selamanya. Upgrade ke Pro atau Business kalau butuh fitur tambahan seperti custom domain dan business tools."
+
+  - question: "Apakah saya perlu bisa coding atau desain?"
+    answer: "Tidak sama sekali. Base dirancang khusus untuk pemilik bisnis, bukan developer. Ceritakan bisnismu, AI kami yang bekerja — kebanyakan orang bisa meluncurkan website pertama mereka dalam 10 menit."
+
+  - question: "Metode pembayaran apa saja yang diterima?"
+    answer: "Kami menerima transfer bank (BCA, Mandiri, BNI, BRI), GoPay, OVO, DANA, dan kartu kredit/debit Visa & Mastercard. Semua transaksi diproses secara aman."
+
+  - question: "Bisakah saya menggunakan domain sendiri?"
+    answer: "Ya, di plan Pro dan Business kamu bisa menghubungkan domain apapun — .com, .id, .co.id, atau lainnya. Plan Free mendapat subdomain namakamu.base.my.id. Pembelian domain langsung melalui Base akan segera hadir."
+
+  - question: "Apa yang terjadi kalau batas pengunjung Free sudah habis?"
+    answer: "Situsmu tetap tayang — kami tidak akan menurunkannya tanpa peringatan. Kamu akan dapat notifikasi saat mendekati batas dan tawaran untuk upgrade. Kamu punya satu bulan penuh untuk memutuskan sebelum ada pembatasan."
+
+  - question: "Bisakah saya batalkan langganan kapan saja?"
+    answer: "Ya, bisa batalkan kapan saja dari dashboard — tidak ada penalti. Setelah batal, akun kamu otomatis turun ke Free plan dan semua data tetap aman. Tidak ada pertanyaan, tidak ada ribet."
+
+  - question: "Apakah data saya aman dan di-backup?"
+    answer: "Semua data dienkripsi saat transit maupun tersimpan. Kami melakukan backup otomatis harian dengan retensi 30 hari. Konten situs, analitik, dan data bisnis adalah milikmu — kamu bisa ekspor semuanya kapan saja."

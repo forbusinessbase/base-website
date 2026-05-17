@@ -1,0 +1,84 @@
+section_label: "Harga sederhana"
+heading: "PILIH\nPLAN-MU"
+toggle_monthly: "Bulanan"
+toggle_annual: "Tahunan"
+toggle_save: "2 bulan gratis"
+
+tiers:
+  - id: free
+    name: FREE
+    tagline: "Mulai dan lihat apa yang bisa dilakukan"
+    price_monthly: 0
+    price_annual: 0
+    cta_label: Mulai Gratis
+    cta_href: "#start"
+    cta_style: ghost
+    featured: false
+    annual_note: ""
+    features:
+      - text: "Pembuat website AI (3x seumur hidup)"
+        included: true
+      - text: "Dihosting di namakamu.base.my.id"
+        included: true
+      - text: "Analitik dasar (riwayat 30 hari)"
+        included: true
+      - text: "Hingga 1.000 pengunjung/bulan"
+        included: true
+      - text: "Domain kustom"
+        included: false
+      - text: 'Hapus footer "Made with Base"'
+        included: false
+      - text: "Ekspor HTML"
+        included: false
+
+  - id: pro
+    name: PRO
+    tagline: "Untuk bisnis yang siap berkembang"
+    price_monthly: 79
+    price_annual: 66
+    cta_label: "Mulai Pro — 14 Hari Gratis"
+    cta_href: "#start"
+    cta_style: fill
+    featured: true
+    annual_note: "Rp 792rb/tahun — hemat Rp 156rb"
+    features:
+      - text: "Build & rebuild AI tanpa batas"
+        included: true
+      - text: "Domain kustom (.com, .id, dll)"
+        included: true
+      - text: 'Hapus footer "Made with Base"'
+        included: true
+      - text: "Analitik lengkap + riwayat tak terbatas"
+        included: true
+      - text: "Alat bisnis (invoice, kontak)"
+        included: true
+      - text: "Ekspor HTML"
+        included: true
+      - text: "Hingga 50.000 pengunjung/bulan"
+        included: true
+
+  - id: biz
+    name: BUSINESS
+    tagline: "Untuk tim dan brand yang berkembang"
+    price_monthly: 199
+    price_annual: 166
+    cta_label: "Mulai Business"
+    cta_href: "#start"
+    cta_style: ghost
+    featured: false
+    annual_note: "Rp 1.992rb/tahun — hemat Rp 396rb"
+    features:
+      - text: "Semua fitur Pro"
+        included: true
+      - text: "Hingga 5 website"
+        included: true
+      - text: "Akses tim (3 anggota)"
+        included: true
+      - text: "Laporan lanjutan + ekspor data"
+        included: true
+      - text: "Pengunjung tak terbatas"
+        included: true
+      - text: "Opsi white-label"
+        included: true
+      - text: "Dukungan khusus"
+        included: true

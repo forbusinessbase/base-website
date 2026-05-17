@@ -1,0 +1,31 @@
+section_label: "Apa saja fiturnya"
+heading: "DIRANCANG UNTUK\nBISNISMU"
+sub: "Mulai dengan website buatan AI. Lalu berkembang dengan alat yang benar-benar dibutuhkan bisnis kecil — analitik, link-in-bio, dan manajemen bisnis."
+items:
+  - num: "01"
+    id: website_builder
+    name: AI PEMBUAT WEBSITE
+    num_label: "01 — PEMBUAT WEBSITE"
+    desc: "Tanpa template, tanpa drag-and-drop. Cukup ceritakan bisnismu — nama, lokasi, warna, konten — dan AI kami membuatkan website lengkap untukmu."
+    badge: Dibangun lewat percakapan
+
+  - num: "02"
+    id: analytics
+    name: ANALITIK CERDAS
+    num_label: "02 — ANALITIK CERDAS"
+    desc: "Ketahui siapa yang mengunjungi situsmu, apa yang mereka klik, dan dari mana mereka berasal. Data nyata untuk keputusan bisnis yang lebih cerdas setiap hari."
+    badge: Dashboard real-time
+
+  - num: "03"
+    id: link_in_bio
+    name: LINK-IN-BIO
+    num_label: "03 — LINK-IN-BIO"
+    desc: "Satu halaman cantik untuk semua link-mu. Cocok untuk Instagram, TikTok, dan platform apapun yang membatasimu satu URL di profil."
+    badge: Jalan di semua platform
+
+  - num: "04"
+    id: business_tools
+    name: ALAT BISNIS
+    num_label: "04 — ALAT BISNIS"
+    desc: "Buat invoice klien, kelola kontak, pantau pesanan. Semua pekerjaan admin ditangani agar kamu bisa fokus pada hal yang benar-benar mengembangkan bisnismu."
+    badge: Hemat waktu setiap minggu

@@ -1,0 +1,62 @@
+nav:
+  links:
+    - label: Fitur
+      href: "#features"
+    - label: Cara Kerja
+      href: "#how"
+    - label: Demo
+      href: "#demo"
+    - label: Cerita
+      href: "#proof"
+    - label: Harga
+      href: "#pricing"
+    - label: FAQ
+      href: "#faq"
+  cta:
+    label: Mulai Gratis
+    href: "#start"
+
+hero:
+  label: "base.my.id — fondasi bisnis berbasis AI"
+  headline:
+    - "CERITAKAN <em>BISNISMU.</em>"
+    - "DAPATKAN WEBSITE <em>GRATIS.</em>"
+  sub: "Ceritakan bisnismu ke Base. AI kami akan tanya beberapa pertanyaan, lalu membuatkan website sungguhan — dalam 3 menit, tanpa perlu coding."
+  cta_primary: Mulai Gratis
+  cta_primary_href: "#start"
+  cta_secondary: Lihat fiturnya
+  cta_secondary_href: "#features"
+  stats:
+    - value: "100%"
+      label: Gratis
+    - value: "99.9%"
+      label: Uptime
+    - value: "<3 menit"
+      label: Untuk mulai
+
+cta:
+  label: "Siap membangun?"
+  heading_line1: "FONDASI BISNIS-MU"
+  heading_line2: "SUDAH MENUNGGU"
+  sub: "Mulai gratis. Tanpa kartu kredit. Tanpa biaya setup. Cukup kamu dan bisnismu, siap berkembang dari fondasi yang kuat."
+  cta_primary: "Klaim Base Gratis-mu"
+  cta_primary_href: "#"
+  cta_secondary: "Lihat semua fitur"
+  cta_secondary_href: "#features"
+  note: "Plan gratis mencakup: website + link-in-bio + analitik dasar — tanpa batas waktu"
+
+footer:
+  links:
+    - label: Fitur
+      href: "#"
+    - label: Harga
+      href: "#"
+    - label: Blog
+      href: "#"
+    - label: Kontak
+      href: "#"
+    - label: Privasi
+      href: "#"
+  copyright: "© 2025 base.my.id — Hak cipta dilindungi undang-undang"
+  status: "Semua layanan berjalan normal"
+  status_href: "#"
