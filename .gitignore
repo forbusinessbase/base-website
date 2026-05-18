@@ -29,6 +29,9 @@ ehthumbs.db
 .claude/
 memory/
 
+# ── Build output ──────────────────────────────────────
+website/index.html
+
 # ── Logs ──────────────────────────────────────────────
 *.log
 logs/
