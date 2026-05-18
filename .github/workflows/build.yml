@@ -32,7 +32,7 @@ jobs:
           # Switch to deploy branch (create orphan if it doesn't exist yet)
           if git ls-remote --exit-code origin deploy; then
             git fetch origin deploy
-            git checkout deploy
+            git checkout -f deploy
           else
             git checkout --orphan deploy
             git rm -rf . --quiet
